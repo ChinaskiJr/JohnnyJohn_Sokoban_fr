@@ -13,7 +13,7 @@ You will play JohnnyJohn after a hangover, he's waking up in some dark caves and
 
 Just double click on the .exe
 
-### Linux
+### Linux
 
 Packages needed : 
 * libsdl1.2debian
